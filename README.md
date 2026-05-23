@@ -159,5 +159,5 @@ MIT License — feel free to use as reference with attribution.
 ---
 
 <div align="center">
-  Made with ♥ + Laravel &nbsp;·&nbsp; © 2025 Wardatul A'ani
+  Made with ♥ + Laravel &nbsp;·&nbsp; © 2026 Wardatul A'ani
 </div>
