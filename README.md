@@ -144,7 +144,6 @@ Tinggal edit array-nya sesuai kebutuhan.
 | Platform | Link |
 |---|---|
 | 📧 Email | awardatul5@gmail.com |
-| 💬 WhatsApp | +62 822-5913-0101 |
 | 💼 LinkedIn | [wardatul-a-ani-a716b3319](https://www.linkedin.com/in/wardatul-a-ani-a716b3319/) |
 | 🐙 GitHub | [wardaini](https://github.com/wardaini) |
 | 🎓 Dicoding | [wardaini](https://www.dicoding.com/users/wardaini/academies) |
