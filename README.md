@@ -1,59 +1,163 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🌐 Portfolio — Wardatul A'ani (Amare)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+> Personal portfolio website dengan tema **Cyberpunk Neon** (Hitam + Biru Elektrik + Hijau Neon)  
+> Dibangun dengan **Laravel 11** — animasi custom, GitHub live sync, dan desain original.
 
-## About Laravel
+![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat&logo=php&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-00ff88?style=flat)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 👩‍💻 About
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Portfolio milik **Wardatul A'ani** (akrab dipanggil **Amare**) — mahasiswi S1 Informatika Universitas Malikussaleh semester 6, asal Peureulak, Aceh Timur.
 
-## Learning Laravel
+- 🤖 AI & Machine Learning Enthusiast
+- 🔬 Published Researcher — IJABC 2026
+- 🌐 Laravel & Python Developer
+- 📍 Lhokseumawe, Aceh
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+---
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## ✨ Fitur
 
-## Laravel Sponsors
+| Fitur | Keterangan |
+|---|---|
+| 🎨 Cyberpunk Design | Tema hitam-biru-hijau neon, original |
+| ✨ Particle Canvas | Animasi partikel jaringan interaktif di hero |
+| ⌨️ Typewriter Effect | Animasi teks otomatis multi-kata |
+| 🖱️ Custom Cursor | Neon dot + ring mengikuti mouse |
+| 📊 Animated Counters | Angka statistik count-up saat scroll |
+| 📈 Skill Bars | Progress bar animate saat terlihat |
+| 🐙 GitHub Live Sync | Repositories langsung dari GitHub API |
+| 📁 Project Groups | Terorganisir: ML / Research / Web / General |
+| 📜 Timeline Experience | Riwayat kerja & organisasi |
+| 🏆 Certifications | Alibaba Cloud & Dicoding |
+| 📧 Contact Form | Form kontak dengan Laravel Mail + Gmail SMTP |
+| 📱 Fully Responsive | Mobile-first, semua device |
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+---
 
-### Premium Partners
+## 🗂️ Sections
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+1. **Hero** — Nama, typewriter, stats, particle canvas
+2. **About** — Bio, foto, code snippet, semua link sosmed
+3. **Skills** — Progress bars per kategori (AI/ML, Web, Data, Tools)
+4. **Projects** — Grid terkategori + GitHub live repositories
+5. **Experience** — Timeline riwayat kerja & organisasi
+6. **Certifications** — Alibaba Cloud (10) + Dicoding (7)
+7. **Contact** — Channel kontak + form kirim pesan
 
-## Contributing
+---
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## 🛠️ Tech Stack
 
-## Code of Conduct
+- **Backend** — Laravel 11 (PHP 8.2+)
+- **Templating** — Blade
+- **Styling** — Vanilla CSS (Custom Properties + Animations)
+- **JavaScript** — Vanilla JS (Canvas API, IntersectionObserver)
+- **Fonts** — Orbitron + JetBrains Mono + Syne
+- **Mail** — Gmail SMTP via Laravel Mail
+- **API** — GitHub REST API (live repo sync)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+---
 
-## Security Vulnerabilities
+## 🚀 Instalasi
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### 1. Clone repository
 
-## License
+```bash
+git clone https://github.com/wardaini/portfolio-laravel.git
+cd portfolio-laravel
+```
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### 2. Install dependencies
+
+```bash
+composer install
+```
+
+### 3. Setup environment
+
+```bash
+cp .env.example .env
+php artisan key:generate
+```
+
+### 4. Edit `.env`
+
+```env
+APP_NAME="Portfolio"
+APP_URL=http://localhost
+
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_ENCRYPTION=tls
+MAIL_USERNAME=emailkamu@gmail.com
+MAIL_PASSWORD=your-app-password
+MAIL_FROM_ADDRESS="emailkamu@gmail.com"
+CONTACT_MAIL_TO=emailkamu@gmail.com
+```
+
+### 5. Jalankan migration
+
+```bash
+php artisan migrate
+```
+
+### 6. Jalankan server
+
+```bash
+php artisan serve
+```
+
+Buka **http://localhost:8000**
+
+---
+
+## 📷 Foto Profil
+
+Taruh foto di:
+
+```
+public/images/profile.jpg
+```
+
+---
+
+## ⚙️ Kustomisasi Data
+
+Semua data (skills, projects, experience, certifications) ada di:
+
+```
+app/Http/Controllers/PortfolioController.php
+```
+
+Tinggal edit array-nya sesuai kebutuhan.
+
+---
+
+## 📬 Contact
+
+| Platform | Link |
+|---|---|
+| 📧 Email | awardatul5@gmail.com |
+| 💬 WhatsApp | +62 822-5913-0101 |
+| 💼 LinkedIn | [wardatul-a-ani-a716b3319](https://www.linkedin.com/in/wardatul-a-ani-a716b3319/) |
+| 🐙 GitHub | [wardaini](https://github.com/wardaini) |
+| 🎓 Dicoding | [wardaini](https://www.dicoding.com/users/wardaini/academies) |
+| 📄 Publication | [IJABC 2026](https://doi.org/10.60401/ijabc.163) |
+
+---
+
+## 📄 License
+
+MIT License — feel free to use as reference with attribution.
+
+---
+
+<div align="center">
+  Made with ♥ + Laravel &nbsp;·&nbsp; © 2025 Wardatul A'ani
+</div>
