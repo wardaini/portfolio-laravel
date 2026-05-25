@@ -19,12 +19,12 @@ class PortfolioController extends Controller
 
         $skills = [
             'AI & Machine Learning' => [
-                ['name' => 'Python',              'icon' => '🐍', 'level' => 82],
-                ['name' => 'Machine Learning',    'icon' => '🤖', 'level' => 75],
-                ['name' => 'Data Processing',     'icon' => '📊', 'level' => 78],
+                ['name' => 'Python',              'icon' => '🐍', 'level' => 70],
+                ['name' => 'Machine Learning',    'icon' => '🤖', 'level' => 70],
+                ['name' => 'Data Processing',     'icon' => '📊', 'level' => 70],
                 ['name' => 'Prompt Engineering',  'icon' => '✍️', 'level' => 80],
-                ['name' => 'RAG / LLM',           'icon' => '🧠', 'level' => 72],
-                ['name' => 'Generative AI',       'icon' => '✨', 'level' => 74],
+                ['name' => 'RAG / LLM',           'icon' => '🧠', 'level' => 67],
+                ['name' => 'Generative AI',       'icon' => '✨', 'level' => 69],
             ],
             'Web Development' => [
                 ['name' => 'Laravel',             'icon' => '🔴', 'level' => 78],
@@ -32,7 +32,7 @@ class PortfolioController extends Controller
                 ['name' => 'JavaScript',          'icon' => '🟡', 'level' => 68],
                 ['name' => 'React + Vite',        'icon' => '⚛️', 'level' => 65],
                 ['name' => 'Node.js / Express',   'icon' => '💚', 'level' => 65],
-                ['name' => 'HTML & CSS',          'icon' => '🎨', 'level' => 80],
+                ['name' => 'HTML & CSS',          'icon' => '🎨', 'level' => 70],
             ],
             'Data & Database' => [
                 ['name' => 'SQL / MySQL',         'icon' => '🐬', 'level' => 70],
