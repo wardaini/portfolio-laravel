@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About
 
-Portfolio milik **Wardatul A'ani** (akrab dipanggil **Amare**) — mahasiswi S1 Informatika Universitas Malikussaleh semester 6, asal Peureulak, Aceh Timur.
+Portfolio **Wardatul A'ani** (akrab dipanggil **Amare**) — mahasiswi S1 Informatika Universitas Malikussaleh semester 6, asal Peureulak, Aceh Timur.
 
 - 🤖 AI & Machine Learning Enthusiast
 - 🔬 Published Researcher — IJABC 2026
